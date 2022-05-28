@@ -8,7 +8,7 @@
 <!--Personal Website > fazer
 -->
 <p align="left">
-<a href="https://www.instagram.com/luisanobrevaz/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30" /></a> <a href="https://br.linkedin.com/in/luisanobrevaz" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652595177~hmac=39797a9c5e7a80812238af95230b9323" alt="linkedin" height="30" width="30" /></a> <a href=mailto:luisanobrevaz@gmail.com target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="e-mail" height="35" width="35" /></a>
+<a href="https://www.instagram.com/luisanobrevaz/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30" /></a> <a href="https://br.linkedin.com/in/luisanobrevaz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a> <a href=mailto:luisanobrevaz@gmail.com target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="e-mail" height="35" width="35" /></a>
 
 
 :open_book: **Currently Reading:**
