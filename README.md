@@ -20,8 +20,11 @@
 :star:	**Bookshelf favorites:**
 <!--VER SE TEM MAIS ALGUM
 -->
-- [Sapiens: A Brief History of Humankind, Yuval Noah Harari](https://www.amazon.com.br/Sapiens-Brief-History-Humankind-English-ebook/dp/B00ICN066A/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2PJNPLNVHFHNO&keywords=sapiens+yuval&qid=1652595154&sprefix=sapiens+yuva%2Caps%2C288&sr=8-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12) - [The Power of Habit, Charles Duhigg](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=sr_1_1?keywords=power+of+habit&qid=1652595297&sprefix=power+of+ha%2Caps%2C221&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
--[Little Wins, Paul Lindley](https://www.amazon.com.br/Little-Wins-Thinking-Toddler-English-ebook/dp/B01M339WKS/ref=sr_1_1?keywords=little+wins&qid=1652595281&sr=8-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
+- [Sapiens: A Brief History of Humankind, Yuval Noah Harari](https://www.amazon.com.br/Sapiens-Brief-History-Humankind-English-ebook/dp/B00ICN066A/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2PJNPLNVHFHNO&keywords=sapiens+yuval&qid=1652595154&sprefix=sapiens+yuva%2Caps%2C288&sr=8-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
+
+- [The Power of Habit, Charles Duhigg](https://www.amazon.com.br/Power-Habit-What-Business-English-ebook/dp/B0055PGUYU/ref=sr_1_1?keywords=power+of+habit&qid=1652595297&sprefix=power+of+ha%2Caps%2C221&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12)
+
+- [Little Wins, Paul Lindley](https://www.amazon.com.br/Little-Wins-Thinking-Toddler-English-ebook/dp/B01M339WKS/ref=sr_1_1?keywords=little+wins&qid=1652595281&sr=8-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678)
 
 
 ⚡ **Fun fact:** I do cartwheels for hobbie :woman_cartwheeling:	
