@@ -14,7 +14,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)    ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)    ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-:speech_balloon:**Connect with me**
+:speech_balloon:**Where to find me**
 <p align="left">
 <a href="https://luisanobrevaz.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10041/10041057.png" alt="instagram" height="30" width="30" /></a> <a href="https://www.instagram.com/luisanobrevaz/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30" /></a> <a href="https://br.linkedin.com/in/luisanobrevaz" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a> <a href=mailto:luisanobrevaz@gmail.com target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="e-mail" height="35" width="35" /></a>
 
